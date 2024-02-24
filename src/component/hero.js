@@ -15,16 +15,24 @@ with Our Ebook!
       <p className="mb-8 leading-relaxed">
       Discover essential aspects of Full-stack development with our e-book. Dive into both frontend and backend components of the MERN stack, empowering you to craft stunning and responsive websites.
       </p>
-      <div className="flex justify-center">
-        <a href='https://imjo.in/mZbubS'>
-        <button data-aos="zoom-out-up" className="button inline-flex text-white  border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg" style={{'backgroundColor':'rgb(211,0,0)'}}>
+      <div class="flex justify-center flex-wrap">
+        <div>
+    <a href='https://imjo.in/mZbubS' class="mb-4 md:mb-0">
+        <button data-aos="zoom-out-up" class="button inline-flex text-white m-2 md:m-0 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg" style={{'backgroundColor':'rgb(211,0,0)'}}>
+            Get &nbsp;<span class="line-through md:inline">₹1599</span>&nbsp;₹499/- Only
+        </button>
+    </a>
+    </div>
+    <div>
+    <a href='https://imjo.in/ye6Dtf'>
+        <button data-aos="zoom-out-up" class="button ml-0 md:ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
+            Frontend Course&nbsp;<span class="line-through md:inline">₹699</span>&nbsp;₹299/- Only
+        </button>
+    </a>
+    </div>
+</div>
 
-Get Now At &nbsp; <span class="line-through md:inline"> ₹1599</span> &nbsp;₹499/- Only</button>
-</a>
-<a href='https://imjo.in/ye6Dtf'>
-<button data-aos="zoom-out-up" className=" button ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Frontend Course &nbsp;<span class="line-through md:inline"> ₹699</span>&nbsp; 299/- Only </button>
-</a>
-      </div>
+
     </div>
   </div>
 
