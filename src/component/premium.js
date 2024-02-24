@@ -61,8 +61,9 @@ export default function Premium() {
 
 Get Now At &nbsp; <span class=" line-through md:inline"> ₹1599</span> &nbsp;₹499/- Only</button>
 </a>
+<a href='https://imjo.in/ye6Dtf'>
 <button class="button ml-4 inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg">Frontend Course &nbsp;<span class="line-through md:inline"> ₹699</span>&nbsp; 299/- Only </button>
-
+</a>
       </div>
   </div>
 </section>

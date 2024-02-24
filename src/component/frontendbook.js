@@ -155,12 +155,14 @@ export default function Frontend() {
               <li> 25+ Revision Notes  </li>
               <li> 300+ Placement Question   </li>
             </div> 
+            <a href='https://imjo.in/ye6Dtf'>
             <button 
               data-aos="zoom-in-up" 
               className="button inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg"
             >
               Frontend Course &nbsp;<span className="line-through md:inline"> ₹699</span>&nbsp; 299/- Only 
             </button>
+            </a>
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
             <img className="object-cover object-center rounded" alt="hero" src={img}/>
