@@ -81,7 +81,7 @@ export default function Whoshouldbuy() {
   </div>
   <div className="flex justify-center my-6">
         <a href='https://imjo.in/mZbubS'>
-        <button data-aos="zoom-out-up" className="button inline-flex  text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">
+        <button data-aos="zoom-out-up" className="button inline-flex  text-white  border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg" style={{'backgroundColor':'rgb(211,0,0)'}}>
 
 Get Now At &nbsp; <span class="line-through md:inline"> ₹899</span> &nbsp;₹499/- Only</button>
 </a>
