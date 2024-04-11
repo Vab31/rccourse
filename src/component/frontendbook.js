@@ -160,7 +160,7 @@ export default function Frontend() {
               data-aos="zoom-in-up" 
               className="button inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg"
             >
-              Frontend Course &nbsp;<span className="line-through md:inline"> ₹699</span>&nbsp; 299/- Only 
+              Frontend Course &nbsp;<span className="line-through md:inline"> ₹699</span>&nbsp; 199/- Only 
             </button>
             </a>
           </div>
